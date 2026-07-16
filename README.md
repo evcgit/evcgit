@@ -20,10 +20,6 @@ Sandbox has sample data you can click around in. Email, SMS, Stripe Connect, and
 
 `Python` `Django` `DRF` `React` `PostgreSQL` `Redis` `Stripe` `SendGrid` `AWS` `Docker` `WebSockets`
 
-### Elsewhere
-
-- Day job: **Right Angle Engineering** (private org)
-- Product: [@bidzbase](https://github.com/bidzbase)
 
 ---
 
